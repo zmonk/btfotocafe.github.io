@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<gallery>
+
+
+<image color="0x333333">
+<description>image 1</description>
+<pic>yoyo1.jpg</pic>
+</image>
+
+<image color="0x333333">
+<description>image 2</description>
+<pic>yoyo2.jpg</pic>
+</image>
+
+<image color="0x333333">
+<description>image 3</description>
+<pic>yoyo3.jpg</pic>
+<link></link>
+</image>
+
+<image color="0x333333">
+<description>image 4</description>
+<pic>yoyo4.jpg</pic>
+<link></link>
+</image>
+
+<image color="0x333333">
+<description>image 5</description>
+<pic>yoyo5.jpg</pic>
+</image>
+
+
+</gallery>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<gallery>
+
+<image color="0x333333">
+<description>image 1</description>
+<pic>bemiu1.jpg</pic>
+</image>
+
+<image color="0x333333">
+<description>image 2</description>
+<pic>bemiu2.jpg</pic>
+</image>
+
+<image color="0x333333">
+<description>image 3</description>
+<pic>bemiu3.jpg</pic>
+</image>
+
+<image color="0x333333">
+<description>image 4</description>
+<pic>bemiu4.jpg</pic>
+<link></link>
+</image>
+
+<image color="0x333333">
+<description>image 5</description>
+<pic>bemiu5.jpg</pic>
+</image>
+
+
+
+</gallery>

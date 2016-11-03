@@ -1,0 +1,124 @@
+/*All I ask is that if you use this for non-commercial work, that you please leave my 2210media button that is in the top right corner. 
+If used for commercial work. Try to not be a dork and maybe pass a couple bucks my way. I'll even take a free pizza :-) Thanks!  
+Josh Rhame  www.2210media.com
+*/
+
+/* all availible easeTypes
+"linear" "easeInQuad""easeInCubic""easeInQuart"
+"easeInQuint""easeInSine""easeInExpo""easeInCirc"
+"easeInElastic""easeInBack""easeInBounce""easeOutQuad"
+"easeOutQuad" "easeOutCubic""easeOutQuart""easeOutSine"
+"easeOutExpo" "easeOutCirc" "easeOutElastic""easeOutBack"
+"easeOutBounce" "easeInOutQuad" "easeInOutCubic" 
+"easeInOutQuart""easeInOutQuint""easeInOutSine" "easeInOutExpo"
+"easeInOutCirc" "easeInOutElastic" "easeInOutBack" 
+"easeInOutBounce""easeOutInQuad""easeOutInCubic"
+"easeOutInQuart" "easeOutInQuint" "easeOutInSine" "easeOutInExpo"
+"easeOutInCirc""easeOutInElastic""easeOutInBack""easeOutInBounce";*/
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// set the type of scoller you want, "buttons" or "nobuttons"
+&thumbType=buttons&
+
+
+//set the way the thumbs come in, "slide" or "blink"
+&displayThumbs=blink&
+
+
+//Set the types of tweens you want here, just copy and paste from above
+// ease type for thumb sliding up if set to "slide"
+&thumbTweenUpType=easeOutBack&
+
+
+// ease type sliding left and right thumbs if set to "buttons"
+&thumbSlideType=easeOutBack&
+
+
+// ease type mainImage Background
+&mainBoxTweenType=easeOutElastic&
+
+// when the stage is resized, set the type of tween to tween all objects back into place
+&mainStageTweenType=easeOutQuad&
+
+
+// set all the colors to a hex value, just change the last 6 digits
+//thumb background color
+&thumbBackGroundColor=0x666666&
+
+// pev/next button background colors, not needed if set to "nobuttons"
+&buttonBackGroundColor=0x666666&
+
+
+// buttons arrow color, not needed if set to "nobuttons"
+&buttonArrowColor=0xcc6600&
+
+
+// preloader bar color
+&preladerbarColor0x000000&
+
+
+//image background color
+&imageBorderColor=0x333333&
+
+
+// infoBox background color
+&infoBackgroundColor=0xffffff&
+
+
+// main background opening color
+&mainBackGroundStartColor=0xCCCCCC&
+
+
+// hover caption background color
+&hoverCaptionBackGroundColor=0x666666&
+
+
+// set the speed of the tweens in seconds
+// tween thumbs up speed, not needed if set to "blink"
+&slideThumbUpSpeed=.4&
+
+
+// tween thumbs slide right and left speed, not needed if set to "nobuttons"
+&slideThumbsSpeed=1&
+
+
+// tween image background speed
+&mainBoxTweenSpeed=.5&
+
+
+// main background color change speed
+&colorTransformSpeed=.7&
+
+
+// fade in the main image speed
+&mainImageFadeInSpeed=1.5&
+
+
+// fade out the main image speed
+&mainImageFadeoutSpeed=.5&;
+
+
+// when the stage is resized, set the speed to tween objects back into place
+&stageResizeTween=.5&
+
+
+// set the border size you want around the main image
+&borderSize=5&
+
+
+// what do you want the caption to say when you rollover the main image
+&captionText=Click here to view image&
+
+
+// if you leave the node empty, what do you want the hover caption to say. 
+// if the node is empty, the button will not do anything. 
+&noCaptionText=No image preview&
+
+
+// do you want to show the first image upon load. 1 is yes, 2 is no. 
+&loadFirst=1&
+
+// do you want to start the slide automaticaly. 1 is yes, 2 is no
+&startSlide=1&
+
+
